@@ -63,6 +63,7 @@ extension PlacesViewController: UITableViewDataSource {
         
         cell.textLabel?.text = collectionItem.name
         
+        
         return cell
     }
     
